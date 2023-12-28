@@ -1,9 +1,17 @@
+<div align="center">
+  <a href="#">
+    <img src="https://i.ibb.co/TKGH92x/github-header-image-1.png" width="600" alt="fahim github header"/>
+  </a>
+</div>
+<br>
+<br>
+<br>
 
+<div><h1 align="center">Hi 👋, I'm kazi Fahim</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<h1 align="center">Hi 👋, I'm kazi Fahim</h1>
-<h3 align="center">A passionate frontend developer from bangladesh</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazifahim7&label=Profile%20views&color=0e75b6&style=flat" alt="kazifahim7" /> </p></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazifahim7&label=Profile%20views&color=0e75b6&style=flat" alt="kazifahim7" /> </p>
 
 - 🔭 I’m currently working on **learning web development**
 
