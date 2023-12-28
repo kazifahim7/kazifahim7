@@ -1,4 +1,4 @@
-![MERN Stack Development](https://i.ibb.co/1TLdv11/fahim-github-image.png)
+
 
 <h1 align="center">Hi 👋, I'm kazi Fahim</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
