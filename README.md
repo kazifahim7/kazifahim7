@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **learning web development**
 
-- 🌱 I’m currently learning **javascrift**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **github**
 
