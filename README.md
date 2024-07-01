@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://i.ibb.co/87ZKfsy/github-header-image-3.png" width="800" alt="fahim github header"/>
+    <img src="https://i.ibb.co/kh5QGdD/1683909809034.png" width="800" alt="fahim github header"/>
   </a>
 </div>
 
