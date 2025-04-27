@@ -1,145 +1,154 @@
 <div align="center">
-  <a href="#">
-    <img src="https://i.postimg.cc/268ZpHZ3/Red-and-Black-Photo-Heavy-Natural-Disaster-Generic-Crisis-Hub-Linked-In-Banner.png" width="800" alt="fahim github header"/>
+  <img src="https://i.postimg.cc/268ZpHZ3/Red-and-Black-Photo-Heavy-Natural-Disaster-Generic-Crisis-Hub-Linked-In-Banner.png" width="800" alt="Kazi Fahim Header"/>
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <span style="color: #6a0dad;">Hi, I'm Kazi Fahim</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+<h3 align="center" style="color: #8a2be2;">Mern stack Developer | JavaScript Enthusiast | UI/UX Explorer</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Frontend+Development+Specialist;JavaScript+%26+TypeScript+Expert;React+and+Next.js+Developer;Always+learning+new+technologies" alt="Typing SVG" />
   </a>
 </div>
 
-<br><br><br>
-
-<h1 align="center" style="font-size: 3em; font-family: 'Arial', sans-serif;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <span style="background: linear-gradient(90deg, #6a0dad, #8a2be2); -webkit-background-clip: text; color: transparent;">Hi, I'm Kazi Fahim!</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-<h3 align="center" style="color: #8a2be2; font-style: italic;">A passionate frontend developer from Bangladesh</h3>
-
+<!-- Profile badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kazifahim7&label=Profile%20views&color=8a2be2&style=flat-square" alt="kazifahim7" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen?style=for-the-badge&logo=frontendmentor&logoColor=white&labelColor=7209b7&color=3a0ca3" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-blue?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=7209b7&color=3a0ca3" alt="Location" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Bengali-red?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=7209b7&color=3a0ca3" alt="Languages" />
 </p>
 
----
-
-### <img src="https://media.giphy.com/media/2UijVNSdwdfLAJf2Fv/giphy.gif" width="40"> About Me 🚀
-<ul>
-  <li>🔭 I’m currently working on <b>learning web development</b></li>
-  <li>🌱 I’m currently learning <b>Next.js</b></li>
-  <li>👯 I’m looking to collaborate on <b>GitHub</b></li>
-  <li>🤝 I’m looking for help with <b>HTML and CSS</b></li>
-  <li>💬 Ask me about <b>web development</b></li>
-  <li>📫 How to reach me: <b>kazifahim661@gmail.com</b></li>
-  <li>⚡ Fun fact: <b>I think I am amazing</b></li>
-</ul>
+<!-- GitHub trophy showcase with 3D effect -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kazifahim7&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophy" />
+  </a>
+</div>
 
 ---
 
-### <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40"> Connect with Me 🤝
-<p align="center">
-  <a href="mailto:kazifahim661@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kazi-fahim/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <!-- Add other social media links here with similar badges -->
-</p>
+## 👨‍💻 About Me
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li>🚀 Passionate frontend developer skilled in creating intuitive and visually appealing interfaces</li>
+          <li>🔭 Currently exploring advanced React patterns and TypeScript best practices</li>
+          <li>🌱 Continuously learning and growing in modern web development technologies</li>
+          <li>💡 Always seeking to solve complex problems with elegant and efficient solutions</li>
+          <li>🎯 Goal-oriented professional building applications that make a difference</li>
+          <li>🎨 Love to experiment with new design patterns and UX improvements</li>
+          <li>⚡ Fun fact: I can debug code faster than I can solve a Rubik's cube!</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://i.ibb.co.com/5WmYyCnh/487769458-122152900052460579-5380209774485012395-n-removebg-preview.png" width="350" alt="Kazi Fahim Dev" />
+        <p>
+          <a href="https://komarev.com/ghpvc/?username=kazifahim7&label=Profile%20views&color=8A2BE2&style=flat">
+            <img src="https://komarev.com/ghpvc/?username=kazifahim7&label=Profile%20views&color=8A2BE2&style=flat" alt="Profile Views" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### <img src="https://media.giphy.com/media/26gJyINf7ny7A6Nuw/giphy.gif" width="40"> Languages and Tools 🛠
-<p align="center">
- 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 10px; animation: rotate 4s infinite;"/>
-  </a>
- 
+## ⚡ Tech Stack & Expertise
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 10px; animation: shake 3s infinite;"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 10px; animation: bounce 2s infinite;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 10px; animation: rotate 4s infinite;"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 10px; animation: shake 3s infinite;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 10px; animation: bounce 2s infinite;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin: 10px; animation: rotate 4s infinite;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin: 10px; animation: shake 3s infinite;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 10px; animation: bounce 2s infinite;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 10px; animation: rotate 4s infinite;"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="margin: 10px; animation: shake 3s infinite;"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin: 10px; animation: bounce 2s infinite;"/>
-  </a>
-</p>
+<div class="tech-stack-3d">
+  <details open>
+    <summary><b>Frontend Ecosystem</b></summary>
+    <br/>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,redux,bootstrap,materialui" />
+    </p>
+  </details>
+
+  <details>
+    <summary><b>Backend Development</b></summary>
+    <br/>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgresql,prisma,mysql,firebase" />
+    </p>
+  </details>
+
+  <details>
+    <summary><b>Tools & Platforms</b></summary>
+    <br/>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,docker,vercel,netlify,webpack,vite,bash,linux" />
+    </p>
+  </details>
+
+  <details>
+    <summary><b>Currently Learning</b></summary>
+    <br/>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=threejs,pytorch,rust,svelte,supabase" />
+    </p>
+  </details>
+</div>
+
+<!-- Animated Skill Bars -->
+
 
 ---
 
-### <img src="https://media.giphy.com/media/l378uJHLBz24Prq3G/giphy.gif" width="40"> GitHub Stats 📊
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kazifahim7&show_icons=true&theme=radical" alt="kazifahim7" style="border-radius: 10px;"/>
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazifahim7&theme=radical" alt="kazifahim7" style="border-radius: 10px;"/>
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazifahim7&layout=compact&theme=radical" alt="kazifahim7" style="border-radius: 10px;"/>
-</p>
+## 📊 GitHub Analytics
+
+<div align="center" class="github-stats-3d">
+  <div class="stats-row">
+    <a href="https://github.com/kazifahim7">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kazifahim7&show_icons=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="kazifahim7" />
+    </a>
+    <a href="https://github.com/kazifahim7">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazifahim7&layout=compact&theme=radical&bg_color=0D1117&title_color=F85D7F&hide_border=true&border_radius=15" alt="kazifahim7" />
+    </a>
+  </div>
+  
+  <div class="stats-row-wide">
+    <a href="https://github.com/kazifahim7">
+      <img src="https://streak-stats.demolab.com?user=kazifahim7&theme=radical&background=0D1117&border=8A2BE2&stroke=8A2BE2&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </div>
+
+  <div class="stats-row-full">
+    <a href="https://github.com/kazifahim7">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazifahim7&bg_color=0D1117&color=F85D7F&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+    </a>
+  </div>
+  
+  
 
 ---
 
-### <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="40"> Latest Blog Posts 📃
-<!-- BLOG-POST-LIST:START -->
-- [Understanding React Hooks](https://yourblog.com/react-hooks)
-- [A Guide to CSS Flexbox](https://yourblog.com/css-flexbox)
-- [JavaScript Async Await: A Complete Guide](https://yourblog.com/js-async-await)
-<!-- BLOG-POST-LIST:END -->
 
----
 
-### <img src="https://media.giphy.com/media/26gJyINf7ny7A6Nuw/giphy.gif" width="40"> Support 💖
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kazifahim" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://paypal.me/kazifahim" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-</p>
 
----
+## 🌐 Connect With Me
 
-### <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="40"> Fun Repos 🌟
-<p align="center">
-  <a href="https://github.com/kazifahim/awesome-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kazifahim7&repo=awesome-project&theme=radical" style="border-radius: 10px;" />
-  </a>
-  <a href="https://github.com/kazifahim/cool-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kazifahim7&repo=cool-repo&theme=radical" style="border-radius: 10px;" />
-  </a>
-</p>
-
----
-
-### <img src="https://media.giphy.com/media/l4FGzMHLh8EWbjuRm/giphy.gif" width="40"> Fun Facts 🎉
-<ul>
-  <li>✨ I can solve a Rubik's cube in under 2 minutes!</li>
-  <li>📚 I enjoy reading tech articles and science fiction novels.</li>
-</ul>
-
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div class="connect-section">
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
+  
+  <div class="social-links">
+    <a href="mailto:kazifahim661@gmail.com" class="social-btn email-btn">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/kazi-fahim/" class="social-btn linkedin-btn">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/yourusername" class="social-btn twitter-btn">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://github.com/kazifahim7" class="social-btn github-btn">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </div>
